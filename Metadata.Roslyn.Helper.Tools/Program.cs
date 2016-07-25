@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Metadata.Roslyn.Helper.Test
+namespace Metadata.Roslyn.Helper.Tools
 {
     class Program
     {

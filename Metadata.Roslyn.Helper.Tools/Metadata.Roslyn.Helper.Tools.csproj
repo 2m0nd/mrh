@@ -7,8 +7,8 @@
     <ProjectGuid>{F368A190-730E-405B-8936-9BD179C61203}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Metadata.Roslyn.Helper.Test</RootNamespace>
-    <AssemblyName>Metadata.Roslyn.Helper.Test</AssemblyName>
+    <RootNamespace>Metadata.Roslyn.Helper.Tools</RootNamespace>
+    <AssemblyName>Metadata.Roslyn.Helper.Tools</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
