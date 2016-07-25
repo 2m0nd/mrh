@@ -10,7 +10,10 @@ namespace Metadata.Roslyn.Helper.Test
     {
         static void Main(string[] args)
         {
-            Helper.AddToMetadataBuildNumber("AssemblyMetaInformation.cs", "2244");
+            if(args?.Length != 2)
+                throw new Exception("Need two arguments, 1 - metadata.cs path, 2-build number.");
+
+            Helper.AddToMetadataBuildNumber(args[0], args[1]);
         }
     }
 }
