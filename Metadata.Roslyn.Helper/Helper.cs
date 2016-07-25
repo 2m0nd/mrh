@@ -47,7 +47,7 @@ namespace Metadata.Roslyn.Helper
             {
                 File.Delete(metadataSourceCodePath);
             }
-
+            Console.WriteLine(result);
             File.WriteAllText(metadataSourceCodePath, result);
         }
     }
