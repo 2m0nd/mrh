@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Metadata.Roslyn.Helper.Tools</id>
+        <version>1.0.0</version>
+        <authors>vdv</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>https://github.com/2m0nd/mrh</description>
+    </metadata>
+    <files>
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Metadata.Roslyn.Helper.dll" target="tools\net452\Metadata.Roslyn.Helper.dll" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Metadata.Roslyn.Helper.pdb" target="tools\net452\Metadata.Roslyn.Helper.pdb" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Metadata.Roslyn.Helper.Tools.exe" target="tools\net452\Metadata.Roslyn.Helper.Tools.exe" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Metadata.Roslyn.Helper.Tools.exe.config" target="tools\net452\Metadata.Roslyn.Helper.Tools.exe.config" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Metadata.Roslyn.Helper.Tools.pdb" target="tools\net452\Metadata.Roslyn.Helper.Tools.pdb" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Metadata.Roslyn.Helper.Tools.vshost.exe" target="tools\net452\Metadata.Roslyn.Helper.Tools.vshost.exe" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Microsoft.CodeAnalysis.CSharp.dll" target="tools\net452\Microsoft.CodeAnalysis.CSharp.dll" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Microsoft.CodeAnalysis.CSharp.xml" target="tools\net452\Microsoft.CodeAnalysis.CSharp.xml" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Microsoft.CodeAnalysis.dll" target="tools\net452\Microsoft.CodeAnalysis.dll" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\Microsoft.CodeAnalysis.xml" target="tools\net452\Microsoft.CodeAnalysis.xml" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\System.Collections.Immutable.dll" target="tools\net452\System.Collections.Immutable.dll" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\System.Collections.Immutable.xml" target="tools\net452\System.Collections.Immutable.xml" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\System.Reflection.Metadata.dll" target="tools\net452\System.Reflection.Metadata.dll" />
+        <file src="..\Metadata.Roslyn.Helper.Tools\bin\Release\System.Reflection.Metadata.xml" target="tools\net452\System.Reflection.Metadata.xml" />
+    </files>
+</package>
